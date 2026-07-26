@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "This repository is an author's English translation. If you cite it, please cite the original publication given under 'preferred-citation'."
+title: "Patriotism as a Social Value: The Perception of Student Youth (Author's English translation)"
+type: dataset
+authors:
+  - family-names: Gazieva
+    given-names: "Inna A."
+    orcid: "https://orcid.org/0000-0002-0778-7171"
+    affiliation: "RANEPA — Russian Presidential Academy of National Economy and Public Administration"
+license: CC-BY-NC-4.0
+keywords:
+  - social values
+  - patriotism
+  - youth policy
+  - youth
+  - higher education
+preferred-citation:
+  type: article
+  title: "Патриотизм как социальная ценность: восприятие студенческой молодёжи"
+  authors:
+    - family-names: Gazieva
+      given-names: "Inna A."
+      orcid: "https://orcid.org/0000-0002-0778-7171"
+  journal: "Социологическая наука и социальная практика"
+  year: 2025
+  volume: 13
+  issue: 1
+  start: 142
+  end: 169
+  doi: 10.19181/snsp.2025.13.1.7

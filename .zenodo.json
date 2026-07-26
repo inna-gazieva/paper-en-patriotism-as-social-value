@@ -1,0 +1,32 @@
+{
+  "upload_type": "publication",
+  "publication_type": "article",
+  "title": "Patriotism as a Social Value: The Perception of Student Youth (Author's English translation)",
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-by-nc-4.0",
+  "creators": [
+    {
+      "name": "Gazieva, Inna A.",
+      "orcid": "0000-0002-0778-7171",
+      "affiliation": "Russian Presidential Academy of National Economy and Public Administration (RANEPA)"
+    }
+  ],
+  "description": "Author's English translation of a peer-reviewed article originally published in Russian: Gazieva I. A. Patriotism as a Social Value: The Perception of Student Youth. Sociological Science and Social Practice (Sociologicheskaya nauka i social'naya praktika). 2025. Vol. 13, No. 1. pp. 142-169. DOI 10.19181/snsp.2025.13.1.7. The article is devoted to one of the urgent problems in the field of studying and organizing youth policy: the assessment and formation of the value of patriotism. Current political rhetoric often speaks of a record high level of patriotism in Russian society, including among students, but with a closer study of the social environment, we have to admit that such statements are somewhat declarative. In this regard, the purpose of this article was to determine the content of the concept of patriotism as a value, which formed the basis of the methodology of the author's sociological research devoted to the study of the formation of social values among students. The survey was conducted from May 17 to June 1, 2023 through the personal offices of full-time RANEPA students (N=4338). Based on the results of factor and cluster analysis of the array of sociological data, a factor of the value of patriotism was formed, as well as typological groups of respondents described depending on the distribution of coordinates of cluster centers and the analysis of estimates of judgments that make up the content of the factor of patriotism and additional, clarifying judgments. The typological group of respondents in the zone of positive values of the factor is called \"social humanists\"; they highly value judgments concerning patriotism and are ready to develop and support their country in every possible way; they believe that the well-being of each person is inextricably linked to the well-being of society. The typological group of respondents who are in the zone of negative values of the factor (three clusters) are called \"social individualists\"; they have a negative attitude to patriotism as a social value and are not ready to share the fruits of their labor with their country, do not consider themselves to owe anything to it. The third typological group, traditionally intermediate, is called \"socially undecided\"; its representatives are in the zone of neutral, zero values of the factor and do not demonstrate a pronounced positive or negative attitude to the value of patriotism. In order to determine organizational and methodological approaches to the formation of the value of patriotism, according to the results of the correlation analysis, a list of values that are related to the value of patriotism was formed, of which half are evaluated sharply negatively by \"social individualists\", and half are evaluated positively by them. It is assumed that the development of mechanisms for the implementation of youth policy aimed at increasing the level of patriotism, based on positively assessed values, will be more effective in terms of forming patriotism among students who have a negative attitude towards it. This constitutes the author's next research task. The original Russian article is the authoritative version and the preferred citation.",
+  "keywords": [
+    "social values",
+    "patriotism",
+    "youth policy",
+    "youth",
+    "higher education",
+    "патриотизм",
+    "социальные ценности",
+    "молодёжь"
+  ],
+  "related_identifiers": [
+    {"identifier": "10.19181/snsp.2025.13.1.7", "relation": "isVariantFormOf", "resource_type": "publication-article"},
+    {"identifier": "10.12737/2133680", "relation": "references", "resource_type": "publication-book"},
+    {"identifier": "https://www.wikidata.org/wiki/Q140355257", "relation": "isReferencedBy"}
+  ],
+  "notes": "English translation by the author. The original Russian article is © its author / the journal. This translation is released under CC BY-NC 4.0."
+}
