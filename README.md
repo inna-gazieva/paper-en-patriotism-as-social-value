@@ -4,13 +4,14 @@
 (Dr. Sci. (Sociology), RANEPA — Russian Presidential Academy of National Economy and Public
 Administration, Moscow).
 
-<!-- DOI badge added after the Zenodo release -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21610446.svg)](https://doi.org/10.5281/zenodo.21610446)
 
 - **Original (Russian):** Газиева И.А. Патриотизм как социальная ценность: восприятие студенческой
   молодёжи // Социологическая наука и социальная практика. 2025. Т. 13, № 1. С. 142–169.
   <https://doi.org/10.19181/snsp.2025.13.1.7>
 - **Author:** Inna A. Gazieva · [ORCID 0000-0002-0778-7171](https://orcid.org/0000-0002-0778-7171)
   · [Wikidata Q140355257](https://www.wikidata.org/wiki/Q140355257) · [inna-gazieva.ru](https://inna-gazieva.ru/)
+- **This translation (DOI):** [10.5281/zenodo.21610446](https://doi.org/10.5281/zenodo.21610446) · Zenodo · v1.0 · 2026-07-26
 - **Translation license:** CC BY-NC 4.0 (see [LICENSE.md](LICENSE.md))
 
 ## Abstract
