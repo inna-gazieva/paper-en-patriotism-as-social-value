@@ -24,9 +24,25 @@
     "молодёжь"
   ],
   "related_identifiers": [
-    {"identifier": "10.19181/snsp.2025.13.1.7", "relation": "isVariantFormOf", "resource_type": "publication-article"},
-    {"identifier": "10.12737/2133680", "relation": "references", "resource_type": "publication-book"},
-    {"identifier": "https://www.wikidata.org/wiki/Q140355257", "relation": "isReferencedBy"}
+    {
+      "identifier": "10.19181/snsp.2025.13.1.7",
+      "relation": "isVariantFormOf",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "10.12737/2133680",
+      "relation": "references",
+      "resource_type": "publication-book"
+    },
+    {
+      "identifier": "https://www.wikidata.org/wiki/Q140355257",
+      "relation": "isReferencedBy"
+    },
+    {
+      "identifier": "10.31235/osf.io/hbzv7_v1",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication-preprint"
+    }
   ],
   "notes": "English translation by the author. The original Russian article is © its author / the journal. This translation is released under CC BY-NC 4.0."
 }

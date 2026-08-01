@@ -12,6 +12,7 @@ Administration, Moscow).
 - **Author:** Inna A. Gazieva · [ORCID 0000-0002-0778-7171](https://orcid.org/0000-0002-0778-7171)
   · [Wikidata Q140355257](https://www.wikidata.org/wiki/Q140355257) · [inna-gazieva.ru](https://inna-gazieva.ru/)
 - **This translation (DOI):** [10.5281/zenodo.21610446](https://doi.org/10.5281/zenodo.21610446) · Zenodo · v1.0 · 2026-07-26
+- **Preprint (SocArXiv):** [10.31235/osf.io/hbzv7_v1](https://doi.org/10.31235/osf.io/hbzv7_v1) · posted 2026-07-27
 - **Translation license:** CC BY-NC 4.0 (see [LICENSE.md](LICENSE.md))
 
 ## Abstract
@@ -72,8 +73,7 @@ This repository is a translation. **Cite the original publication:**
   142–169. https://doi.org/10.19181/snsp.2025.13.1.7
 
 To point specifically to this English translation, add: Gazieva, I. A. (2025). *Patriotism as a
-Social Value: The Perception of Student Youth* [Author's English translation]. Zenodo. (DOI added
-after release.)
+Social Value: The Perception of Student Youth* [Author's English translation]. Zenodo. <https://doi.org/10.5281/zenodo.21610446> (preprint: SocArXiv, <https://doi.org/10.31235/osf.io/hbzv7_v1>)
 
 ## About the author · related publications
 
